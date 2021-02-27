@@ -13,19 +13,19 @@ function Card() {
                                 src="https://images.unsplash.com/photo-1497250681960-ef046c08a56e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1534&q=80"
                                 text="PlantShlf API"
                                 label="Project"
-                                path="/services"
+                                path="/projects"
                             />
                            <CardItem 
                                 src="https://images.unsplash.com/photo-1516035069371-29a1b244cc32?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1638&q=80"
                                 text="Werth Photography Client Tracker"
                                 label="Project"
-                                path="/services"
+                                path="/projects"
                             />
                            <CardItem 
                                 src="https://images.unsplash.com/photo-1523474253046-8cd2748b5fd2?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"
                                 text="AWS Lambda"
                                 label="Project"
-                                path="/services"
+                                path="/projects"
                             />
                     </ul>
                     <ul className="cards__items">
