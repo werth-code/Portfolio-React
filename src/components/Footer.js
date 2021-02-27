@@ -17,12 +17,12 @@ function Footer() {
                     </form>
                 </div>
             </section>
-            <div className="footer-links">
+            {/* <div className="footer-links">
                 <div className="footer-link-wrapper">
                     <div className="footer-link-items">
                     </div>
                 </div>
-            </div>
+            </div> */}
             <section class='social-media'>
                 <div class='social-media-wrap'>
                 <div class='footer-logo'>

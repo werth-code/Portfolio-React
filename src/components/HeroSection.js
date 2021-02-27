@@ -7,7 +7,6 @@ import './Button.css'
 function HeroSection() {
   return (
     <div className='hero-container'>
-      <video src='/Users/m21/dev/portfolio/src/video-1.mp4' autoPlay loop muted />
       <h1>MATTHEW WERTH</h1>
       <p>DEVELOPER / PHOTOGRAPHER</p>
       <div className='hero-btns'>
